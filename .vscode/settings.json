@@ -15,6 +15,7 @@
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
+    "julia.executablePath": "/home/gitpod/julia/bin/julia",
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": true,
     "settingsSync.ignoredExtensions": [
